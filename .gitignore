@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# CSV files
+*.csv
+
+# SQLite DB (if used)
+*.sqlite3
+
+# VS Code & JetBrains IDEs
+.vscode/
+.idea/
+
+# Django static/media (optional)
+staticfiles/
+media/
+
+# Pip metadata
+pip-selfcheck.json
